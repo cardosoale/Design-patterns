@@ -24,7 +24,6 @@ Simple Factory pode não ser considerado um padrão de projeto por si só
 Simple Factory pode quebrar princípios do SOLID
 """
 from abc import ABC, abstractmethod
-import re
 
 
 class Veiculo(ABC):
